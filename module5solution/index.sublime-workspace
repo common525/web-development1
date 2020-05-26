@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"SpeakGoodBye"
+			],
+			[
+				"Sp",
+				"SpeakGoodBye"
+			],
+			[
+				"spea",
+				"SpeakHello"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"s",
+				"speak"
+			],
+			[
+				"fir",
+				"firstLetter"
+			],
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"nam",
+				"names"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"o",
+				"operation"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"ch",
+				"chicken"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"col",
+				"col-md-12"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"c",
+				"content\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"col-m",
+				"col-md-6"
+			],
+			[
+				"col-l",
+				"col-lg-4"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"sc",
+				"sectionwidth12"
+			],
+			[
+				"se",
+				"sectionwidth6"
+			],
+			[
+				"sec",
+				"sectionwidth4"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"be",
+				"beeftitle"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"m",
+				"margin-right\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"ti",
+				"title\tAttr"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"un",
+				"text-underline-position\tproperty"
+			],
+			[
+				"sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/dell/Documents/web-development1/module5solution/index.html",
+		"/C/Users/dell/Documents/web-development1/module5solution/js/script.js",
+		"/C/Users/dell/Documents/web-development1/module4solution/harder/SpeakGoodBye.js",
+		"/C/Users/dell/Documents/web-development1/module4solution/harder/SpeakHello.js",
+		"/C/Users/dell/Documents/web-development1/module4solution/harder/index.html",
+		"/C/Users/dell/Documents/web-development1/module4solution/harder/script.js",
+		"/C/Users/dell/Documents/web-development1/.git/COMMIT_EDITMSG",
+		"/C/Users/dell/Documents/web-development1/nothing.html",
+		"/C/Users/dell/Documents/web-development1/module3solution/styles.css",
+		"/C/Users/dell/Documents/web-development1/module3solution/index.html",
+		"/C/Users/dell/Documents/web-development1/module3solution/sushi.html",
+		"/C/Users/dell/Documents/web-development1/module3solution/beef.html",
+		"/C/Users/dell/Documents/web-development1/module3solution/chicken.html",
+		"/C/Users/dell/Documents/web-development1/module3solution/css/bootstrap.css",
+		"/C/Users/dell/Documents/web-development1/site/styles.css",
+		"/C/Users/dell/Documents/web-development1/site/index.html",
+		"/C/Users/dell/Documents/web-development1/site/module2Solution.html",
+		"/C/Users/dell/Documents/web-development1/site/try1.html",
+		"/C/Users/dell/Documents/web-development1/site/style.css",
+		"/C/Users/dell/Documents/web-development1/site/try1css.css",
+		"/C/Users/dell/Documents/web-development1/site/mod.css",
+		"/C/Users/dell/Documents/GTA San Andreas User Files/style.css",
+		"/C/Users/dell/Documents/GTA San Andreas User Files/styles.css",
+		"/C/Users/dell/Documents/GTA San Andreas User Files/modulesolution.html",
+		"/C/Users/dell/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/C/Users/dell/Documents/GTA San Andreas User Files/html1.html",
+		"/C/Users/dell/Documents/GTA San Andreas User Files/hihihihih.html",
+		"/C/proframsss/print('hello wolrd').py",
+		"/C/proframsss/print('helloworld')",
+		"/E/phython/examples/print('hello world').py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
